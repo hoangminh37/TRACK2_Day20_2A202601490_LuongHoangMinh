@@ -1,0 +1,14 @@
+{
+  "llama_cpp": {
+    "runtime": "llama.cpp (Metal)",
+    "ttft_p50": 116.0,
+    "ttft_p95": 135.8,
+    "decode_tok_s": 46.7
+  },
+  "mlx": {
+    "runtime": "MLX-LM",
+    "ttft_p50": 87.7,
+    "ttft_p95": 194.5,
+    "decode_tok_s": 53.8
+  }
+}
